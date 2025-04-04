@@ -5,6 +5,7 @@ const AboutUs = () => {
   return (
     <section className="about-us">
       <div className="container" id="about">
+        <h2>23BDS0119 ABHIGYAN PRAKASH TIWARY</h2>
         <h2>About Us</h2>
         <p className="tagline">
           Welcome to <span>FESTIVA</span> – The Ultimate College Festival Experience! 🎭
