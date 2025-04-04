@@ -38,13 +38,13 @@ const Contactfooter = () => {
 
         <div className="footer-section">
           <h4>Get in Touch</h4>
-          <p>+91 9876543210</p>
-          <p>contact@sanchitfestiva.com</p>
+          <p>+91 7050120333</p>
+          <p>contact@abhigyanfestiva.com</p>
           <p>VIT Vellore, 632014</p>
         </div>
       </div>
 
-      <p className="copyright">© 2025 SanchitFestiva. All Rights Reserved.</p>
+      <p className="copyright">© 2025 AbhigyanFestiva. All Rights Reserved.</p>
     </footer>
   );
 };
